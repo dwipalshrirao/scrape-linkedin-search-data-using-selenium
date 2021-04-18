@@ -9,6 +9,9 @@
   
   * python
   * selenium
+  * Numpy
+  * Pandas
+  
   I have used Numpy , Pandas for processing data. You can use your logic and can skip these libraries.
   
    ### Run the following commands to get started your project:
